@@ -1,0 +1,4 @@
+repository "CreatingProject and Sprite Images@ssl://lcsc294459608@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/lcsc294459608" 
+     
