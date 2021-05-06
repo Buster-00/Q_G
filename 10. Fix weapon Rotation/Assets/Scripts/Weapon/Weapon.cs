@@ -5,7 +5,7 @@ using UnityEngine;
 public class Weapon : MonoBehaviour
 {
     [Header("Settings")]
-    [SerializeField] private float timeBtwShots = 0.5f;
+    [SerializeField] private float timeBtwShots = 1.0f;
 
     [Header("Weapon")]
     [SerializeField] private bool useMagazine = true;
